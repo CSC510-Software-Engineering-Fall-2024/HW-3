@@ -1,0 +1,1 @@
+grep -c "CSC510" titanic*| grep -E ":3$" | cut -d: -f1
