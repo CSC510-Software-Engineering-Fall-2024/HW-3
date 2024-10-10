@@ -1,1 +1,1 @@
-grep -c "CSC510" titanic*| grep -E ":3$" | cut -d: -f1
+grep -c "CSC510" file*| grep -E ":3$" | cut -d: -f1
