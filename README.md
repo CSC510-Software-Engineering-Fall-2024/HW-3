@@ -14,9 +14,9 @@
     <header>
         <h1>CSC 510 - SOFTWARE ENGINEERING</h1>
     </header>
-    <h2>Homework 1</h2>
-    <p>Python code snippet with a zero division error to test error in terminal and using 'entr' which is a test utility tool which keeps updating error in code</p>
-    <p>Pytest used to test the code - both passing and failing test cases included and badge included for test coverage</p>
+    <h2>Homework 4</h2>
+    <h4>Data Wrangling and Pipes</h4>
+    <p>Pipes are a fundamental inter-process communication mechanism on operating systems. They enable the output of one process to be redirected to another. When you write a command on the terminal, the shell is actually creating a process that can execute your command. Since pipes are used to glue together different processes, you can also use pipes on the terminal to enable communication between different commands. The pipe command, represented as a bar symbol |, lets you transfer the output of one command as the input of the next.</p>
 </body>
 </html>   
    
