@@ -6,7 +6,7 @@ awk -F',' 'BEGIN {OFS=","; sum=0; count=0}
     $3 == 2 && $NF == "S" {
         gsub("female", "F", $6)
         gsub("male", "M", $6)
-        print $0
+        printf $0
         if ($7 != "") {
             sum += $7
             count++
