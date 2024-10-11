@@ -1,4 +1,4 @@
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3.13%2B-blue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Testing workflow](https://github.com/CSC510-Software-Engineering-Fall-2024/HW-1/actions/workflows/test.yml/badge.svg) [![cov](https://<you>.github.io/<repo>/badges/coverage.svg)](https://github.com/CSC510-Software-Engineering-Fall-2024/HW-1/actions)]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![cov](https://<you>.github.io/<repo>/badges/coverage.svg)](https://github.com/CSC510-Software-Engineering-Fall-2024/HW-1/actions)]
 
 
 
