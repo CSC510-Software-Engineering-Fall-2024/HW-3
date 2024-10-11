@@ -1,5 +1,5 @@
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![cov](https://<you>.github.io/<repo>/badges/coverage.svg)](https://github.com/CSC510-Software-Engineering-Fall-2024/HW-1/actions)]
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Shell](https://img.shields.io/badge/shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ 
 
 
 <!-- TESTS PASSING BADGE -->
