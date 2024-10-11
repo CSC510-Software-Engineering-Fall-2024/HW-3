@@ -1,8 +1,12 @@
-wk -F',' 'BEGIN {OFS=","; sum=0; count=0}
-    $3 == 2 && $NF ~ /S/ {
+#!/bin/bash
+
+# Filter 2nd class passengers who embarked at Southampton, replace sex labels, 
+# print passenger details, and calculate average age
+awk -F',' 'BEGIN {OFS=","; sum=0; count=0}
+    $3 == 2 && $NF == "S" {
         gsub("female", "F", $6)
         gsub("male", "M", $6)
-        print $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12
+        print $0
         if ($7 != "") {
             sum += $7
             count++
